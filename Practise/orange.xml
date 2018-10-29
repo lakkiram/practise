@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="HRM Automation">
+<test name="PIM">
+<classes>
+<class name="orangehrm.Testngframework"/>
+<class name="orangehrm.Tc2"/>
+</classes>
+</test>
+</suite>

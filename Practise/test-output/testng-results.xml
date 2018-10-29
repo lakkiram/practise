@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="282" started-at="2018-10-25T06:57:12Z" finished-at="2018-10-25T06:57:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="282" started-at="2018-10-25T06:57:12Z" finished-at="2018-10-25T06:57:12Z">
+      <class name="orangehrm.Workwithxl">
+        <test-method status="PASS" signature="ReadDataFromXLSE()[pri:0, instance:orangehrm.Workwithxl@48503868]" name="ReadDataFromXLSE" duration-ms="236" started-at="2018-10-25T06:57:12Z" finished-at="2018-10-25T06:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadDataFromXLSE -->
+      </class> <!-- orangehrm.Workwithxl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
